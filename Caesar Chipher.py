@@ -1,4 +1,4 @@
-######## CAESAR CHIPER, SUPPORT ENCRYPTION & DECRYPTION ########
+######## CAESAR CHIPHER, SUPPORT ENCRYPTION & DECRYPTION ########
 #This Code is genuine coded by Ahmad Rafi Wiratmoko
 #Author     : Ahmad Rafi Wiratmoko
 #Version    : 1.1
