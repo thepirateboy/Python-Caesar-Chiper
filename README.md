@@ -12,7 +12,7 @@
 
 
     SYNOPSIS
-         Caesar chiper encryption and decryption in python.
+         Caesar chiper encryption and decryption in python, SUPPORT ENCRYPTION & DECRYPTION.
 
     DESCRIPTION
           This is a simple encryption cipher that uses the 26 uppercase letters of the English alphabet. 
