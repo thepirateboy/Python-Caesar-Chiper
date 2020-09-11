@@ -11,6 +11,9 @@
 
 
 
+    NAME
+        Complete Caesar Chiper by Ahmad Rafi Wiratmoko
+        
     SYNOPSIS
          Caesar chiper encryption and decryption in python, SUPPORT ENCRYPTION & DECRYPTION.
 
@@ -20,10 +23,14 @@
           so that they are mapped to new letters in the ciphertext (the encrypted message).
 
     SEE ALSO
+          github: thepirateboy
           instagram: @yaeyx
           website: https://yaeyx.com
           blog: https://shit.yaeyx.com
+          
 
     BUGS
-          -nothing.
+          -cannot decrypt number
+          -cannot encrypt non alphabethical symbol
+          -cannot decrypt non alphabethical symbol
           
