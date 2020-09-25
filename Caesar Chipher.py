@@ -69,7 +69,7 @@ while 1:
     if format == "e" or format == "d":
         break
     else:
-        print("I'm sorry. only 'd' or 'e' ")
+        print("I'm sorry. only d or e ")
 
 # why i use replace function when print it? because i'm not sure it will remove the space, so did it manually.
 if format == "e":
